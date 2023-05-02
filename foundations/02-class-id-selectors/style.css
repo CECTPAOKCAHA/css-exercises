@@ -1,0 +1,23 @@
+/* style.css */
+.class {
+    background-color: rgb(231, 166, 166);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18pt;
+}
+
+.cooler {
+    font-size: 24pt;
+}
+
+
+
+#oneID {
+    color: rgb(0, 0, 255);
+    font-size: 36pt;
+}
+
+#anotherID {
+    background-color: rgb(165, 250, 177);
+    font-weight: bold;
+    font-size: 24pt;
+}
