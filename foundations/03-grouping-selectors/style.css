@@ -1,0 +1,16 @@
+/*style.css*/
+
+.black {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.yellow {
+    background-color: #ffff00;    
+}
+
+.black, 
+.yellow {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
